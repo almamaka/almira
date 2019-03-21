@@ -1,7 +1,7 @@
 # almira
 Test repo for learning Git.
 
-## Goals
+## _Goals
 * Learn git
 * Adopt a dog
 * Plant a tree

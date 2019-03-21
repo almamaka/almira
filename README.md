@@ -6,3 +6,5 @@ Test repo for learning Git.
 * Adopt a dog
 * Plant a tree
 * Change the world
+
+Módosítom a readme fájlt.
